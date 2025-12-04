@@ -1,0 +1,4 @@
+data/
+__pycache__/
+augmented_videos/
+sign_language_model_71.16%/
